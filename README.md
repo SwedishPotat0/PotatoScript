@@ -14,7 +14,9 @@ PotatoScript is a stack-based programming laungage utelising **RPN** (Reverse Po
 PotatoScript has some built in constants that can be used, **Note** that they can be used alongside variables. These are:
 
 g - 9.82
+
 e - 2.71828
+
 pi - 3.141592
 
 ### Variables
