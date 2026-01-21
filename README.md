@@ -1,5 +1,7 @@
 # PotatoScript
-PotatoScript is a stack-based programming laungage utelising **RPN** (Reverse Polish Notation), this creats a intresting dynamic where the interpeter does not see any difference between a whitespace, newline or tab, this makes it so that you can format the code however you want
+PotatoScript is a stack-based programming laungage utelising **RPN** (Reverse Polish Notation), this creats a intresting dynamic where the interpeter does not see any difference between a whitespace, newline or tab, this makes it so that you can format the code however you want.
+
+PotatoScript uses .ptsc files
 
 ## Syntax
 ### Mathimatical operators
